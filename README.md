@@ -1,6 +1,5 @@
 Expense 8 Puzzle Problem
 Name: Oluwajomiloju Okuwobi
-UTA ID: 1002022767
 Programming Language: Python
 
 Overview
